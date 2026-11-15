@@ -2,9 +2,8 @@
   <img src="banner-zsh.svg" alt="Fahreza - Tech Student" width="100%">
 </h1>
 
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=26&duration=2000&pause=1000&color=6F2DA8&width=435&lines=I+am+the++architect+of+my+own+destruction" alt="Typing SVG" /></a>
+  <img src="quote-crumbling.svg" alt="I am the architect of my own destruction" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Divider" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I'm Muhammad Fahreza Yudistira, a Computer Science student passionate about technology and software development.
@@ -25,23 +24,21 @@
 - 🌱 Always curious to learn new technologies and gain real-world experience.
 - 🎯 Currently looking for opportunities to grow as a developer and work on meaningful projects.
 
-
 ## 🧠 My Focus Areas
 - Web development
-- Front end architecture
-
+- Frontend architecture
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Fahrezza">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fahrezza&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Fahrezza's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fahrezza&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200" alt="Fahrezza's GitHub Stats" width="48%" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Fahrezza&theme=dracula&hide_border=true&cache_seconds=86400" alt="Fahrezza's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Fahrezza&theme=dracula&hide_border=true&cache_seconds=86400" alt="Fahrezza's GitHub Streak" width="48%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Fahrezza&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Fahreza Yudistira's GitHub Trophies" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -49,7 +46,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -57,19 +53,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
@@ -77,18 +70,17 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
 </p>
 
 <p align="center">
   <a href="https://github.com/Fahrezza">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fahrezza&langs_count=8&layout=compact&theme=dracula&border_radius=10" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fahrezza&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-fahreza-yudistira-8489b7367?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <a href="https://www.linkedin.com/in/muhammad-fahreza-yudistira-8489b7367">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:fahreza4869@gmail.com">
@@ -101,6 +93,5 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom line" width="100%" />
 </div>
-
