@@ -31,7 +31,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Fahrezza">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fahrezza&show_icons=true&theme=dracula&hide_border=true&cache_seconds=7200" alt="Fahrezza's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Fahrezza&show_icons=true&theme=dracula&hide_border=true" alt="Fahrezza's GitHub Stats" width="48%" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Fahrezza&theme=dracula&hide_border=true&cache_seconds=86400" alt="Fahrezza's GitHub Streak" width="48%" />
 </p>
@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/Fahrezza">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fahrezza&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahrezza&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
