@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Fahreza%20Yudistira&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Empty%20your%20mind%2C%20be%20formless%2C%20shapeless%2C%20like%20water." alt="Typing introduction" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&pause=1000&width=435&lines=I+am+the++architect+of+my+own+destruction" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
