@@ -1,6 +1,7 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Muhammad%20Fahreza%20Yudistira&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20&descSize=18&descAlignY=55&textBg=false"/>
-</p>
+<h1 align="center">Hi there, I'm Fahreza</h1>
+
+<h3 align="center">Tech Student</h3>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=26&duration=2000&pause=1000&color=6F2DA8&width=435&lines=I+am+the++architect+of+my+own+destruction" alt="Typing SVG" /></a>
