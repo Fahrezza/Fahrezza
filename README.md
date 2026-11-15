@@ -2,7 +2,7 @@
   <img src="banner-zsh.svg" alt="Fahreza - Tech Student" width="100%">
 </h1>
 
-<h3 align="center">Hi there, I'm Fahreza | Tech Student</h3>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=times+new+roman&size=26&duration=2000&pause=1000&color=6F2DA8&width=435&lines=I+am+the++architect+of+my+own+destruction" alt="Typing SVG" /></a>
 </p>
